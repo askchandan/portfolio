@@ -1,0 +1,9 @@
+Please add your project images in this directory with the following names:
+- stock-prediction.jpg
+- sentiment-analysis.jpg
+- data-viz.jpg
+- recommendation.jpg
+
+Recommended image dimensions: 800x600 pixels
+Format: JPG or PNG
+Max file size: 500KB per image 
